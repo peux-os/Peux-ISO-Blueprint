@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Install System
+Comment=Calamares — System Installer
+Exec=pkexec /usr/bin/calamares
+Icon=calamares
+Path=/etc/calamares
+Terminal=false
+StartupNotify=false
